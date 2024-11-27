@@ -1,0 +1,2 @@
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                    NAMES
+2d9cfa959fae        sampleapp           "/bin/sh -c 'python3…"   8 minutes ago       Up 8 minutes        0.0.0.0:8080->8080/tcp   samplerunning
